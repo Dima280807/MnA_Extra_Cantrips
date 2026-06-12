@@ -30,7 +30,7 @@ public class ExtraCantrips {
     }
 
     private void commonSetup(final FMLCommonSetupEvent event) {
-        
+        event.enqueueWork(CantripRegistry::register);
     }
 
     // Add the example block item to the building blocks tab
