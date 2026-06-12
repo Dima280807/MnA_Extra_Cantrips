@@ -11,6 +11,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import net.ultrad00d.ExtraCantrips.registry.CantripRegistry;
 import org.slf4j.Logger;
 
 // The value here should match an entry in the META-INF/mods.toml file
@@ -29,7 +30,7 @@ public class ExtraCantrips {
     }
 
     private void commonSetup(final FMLCommonSetupEvent event) {
-
+        
     }
 
     // Add the example block item to the building blocks tab
