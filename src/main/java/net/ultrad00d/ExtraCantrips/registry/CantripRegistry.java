@@ -13,7 +13,7 @@ public class CantripRegistry {
         // MVPv0
         registry.registerCantrip(
             new ResourceLocation("mna_extra_cantrips", "lightning"),
-            new ResourceLocation("mna", "textures/gui/affinity/lightning.png"),
+            new ResourceLocation("mna_extra_cantrips", "textures/gui/cantrips/lightning.png"),
             1,
             CantripRegistry::lightning,
             ItemStack.EMPTY,
@@ -21,7 +21,7 @@ public class CantripRegistry {
         );
         registry.registerCantrip(
             new ResourceLocation("mna_extra_cantrips", "spectral_bed"),
-            new ResourceLocation("mna", "textures/gui/cantrips/ward.png"),
+            new ResourceLocation("mna_extra_cantrips", "textures/gui/cantrips/spectral_bed.png"),
             1,
             CantripRegistry::placeBed,
             ItemStack.EMPTY,
@@ -29,7 +29,7 @@ public class CantripRegistry {
         );
         registry.registerCantrip(
             new ResourceLocation("mna_extra_cantrips", "spectral_boat"),
-            new ResourceLocation("mna", "textures/gui/cantrips/gust.png"),
+            new ResourceLocation("mna_extra_cantrips", "textures/gui/cantrips/spectral_boat.png"),
             1,
             CantripRegistry::summonBoat,
             ItemStack.EMPTY,
