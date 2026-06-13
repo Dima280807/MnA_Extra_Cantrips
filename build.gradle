@@ -156,8 +156,13 @@ dependencies {
 //    implementation fg.deobf("com.mithion:mna-forge-1.20.1-3.1.11:all")
 //    implementation fg.deobf("maven.modrinth:mana-and-artifice:3.1.11")
 
+    // Mana and Artifice
     implementation fg.deobf("curse.maven:mana-and-artifice-406360:6847805")
+
+    // Curios API - compile only for API, runtime for the full mod
     implementation fg.deobf("top.theillusivec4.curios:curios-forge:${curios_version}+${minecraft_version}")
+
+    // GeckoLib animation engine
     implementation fg.deobf("software.bernie.geckolib:geckolib-forge-${minecraft_version}:${geckolib_version}")
 }
 
