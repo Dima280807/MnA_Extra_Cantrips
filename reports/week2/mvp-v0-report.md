@@ -6,8 +6,8 @@ The goal of this MVP is to introduce 3 fully functional cantrips into the game, 
 ## Deployement link (CurseForge)
 The compiled, runnable mod can be downloaded directly from CurseForge mod hosting service (once they approve it), or you can download our mod directly via Google Drive
 
-CurseForge link: [CurseForge link]()<br>
-Google Drive: [Google Drive]()
+CurseForge link: [CurseForge link](https://legacy.curseforge.com/minecraft/mc-mods/forgotten-cantrips)<br>
+Google Drive: [Google Drive](https://drive.google.com/file/d/11tnBDh0uzC_yOequNkGFHDm9-4WDOuO3/view?usp=sharing)
 
 [//]: # (Public video demonstration link)
 ## Demo link (YouTube)
