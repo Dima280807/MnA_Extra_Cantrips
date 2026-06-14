@@ -1,6 +1,6 @@
 ## Learning points
 
-= We have improved our understanding of the mod structure while writing the MVP v0.
+- We have improved our understanding of the mod structure while writing the MVP v0.
 - We have learned how to gain ideas through the provided communication channels.
 - We have finalized our project direction while writing user stories and getting customer validation.
 - We have understood how not to make overpowered items for our mod while writing user stories and discussing proposed ideas.
@@ -25,4 +25,8 @@ Besides, the lack of knowledge about making cantrips spawn in random Minecraft s
 
 ## Planned response
 
-// how learning points will affect MVP v1, with links to affected stories or artifacts.
+Those learning points will help us add balanced (not overpowered or useless) mechanics to the game. Since the project direction is known, we will be able to make appropriate designs of items. These artifacts will be included in MVP v1:
+
+- [Spectral Bed](./user-stories.md#us-03-spectral-bed-mvp)
+- [Lightning](./user-stories.md#us-04-lightning-spell-mvp)
+- [Astral Boat](./user-stories.md#us-06-spectral-boat-mvp)
