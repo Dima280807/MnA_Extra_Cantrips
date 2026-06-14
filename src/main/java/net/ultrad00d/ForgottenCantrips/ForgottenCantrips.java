@@ -1,4 +1,4 @@
-package net.ultrad00d.ExtraCantrips;
+package net.ultrad00d.ForgottenCantrips;
 
 import com.mojang.logging.LogUtils;
 import net.minecraftforge.api.distmarker.Dist;
@@ -11,16 +11,16 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
-import net.ultrad00d.ExtraCantrips.registry.CantripRegistry;
+import net.ultrad00d.ForgottenCantrips.registry.CantripRegistry;
 import org.slf4j.Logger;
 
 // The value here should match an entry in the META-INF/mods.toml file
-@Mod(ExtraCantrips.MOD_ID)
-public class ExtraCantrips {
-    public static final String MOD_ID = "mna_extra_cantrips"; // lowercase, no spaces, numbers, _ and -
+@Mod(ForgottenCantrips.MOD_ID)
+public class ForgottenCantrips {
+    public static final String MOD_ID = "forgotten_cantrips"; // lowercase, no spaces, numbers, _ and -
     public static final Logger LOGGER = LogUtils.getLogger();
 
-    public ExtraCantrips() {
+    public ForgottenCantrips() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         modEventBus.addListener(this::commonSetup);
