@@ -1,4 +1,4 @@
-Mana and Artifice Extra Cantrips
+Mana and Artifice Forgotten Cantrips
 
 [Week 2 Project Delivery Index](reports/week2/README.md)
 
