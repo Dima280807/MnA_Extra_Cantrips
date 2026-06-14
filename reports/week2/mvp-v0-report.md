@@ -23,11 +23,16 @@ As every spell must have a name, description and an icon, these spell assets and
 
 [//]: # (Link to local setup instructions)
 ## Local Setup Instructions
-- Clone the repo
-- Setup JDK17 for the project
-- Run `./gradlew build`
+Local Setup instructions, as outlined in root [README.md](https://github.com/Ultrad00d/MnA_Extra_Cantrips/blob/main/README.md)
 
-modding 1.20.1 tutorial https://youtu.be/55qUIf3GMss
+Using IntelliJ IDEA:
+
+1) Clone the repository
+2) In IntelliJ, select **File | Open** -> **Project from Existing Sources**
+3) Select the directory containing the project and click **OK**
+4) To compile, run "./gradlew build"
+
+Example Forge 1.20.1 modding project setup tutorial: https://youtu.be/55qUIf3GMss
 
 
 [//]: # (Repeatable smoke-check scenario)
