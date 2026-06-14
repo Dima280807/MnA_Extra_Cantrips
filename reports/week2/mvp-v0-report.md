@@ -11,7 +11,7 @@ Google Drive: [Google Drive]()
 
 [//]: # (Public video demonstration link)
 ## Demo link (YouTube)
-[Demo link](https://youtu.be/)
+[Demo link](https://youtu.be/MfrgAQUkPyk)
 
 [//]: # (Relationship to the prototype and proposed MVP v1 stories, where applicable)
 ## Relationship to the Prototype and Proposed MVP v1 Stories
