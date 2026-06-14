@@ -22,7 +22,7 @@ so that I can amplify next spell cast for burst damage or utility.
 ### Notes and constraints
 - None
 
-## US-03: Spectral bed [To Do]
+## US-03: Spectral bed [MVP]
 
 **Requirement status:** Active
 **MoSCoW priority:** Must Have
@@ -34,7 +34,7 @@ so that I can sleep without updating my respawn point.
 ### Notes and constraints
 - None
 
-## US-04: Lightning spell [To Do]
+## US-04: Lightning spell [MVP]
 
 **Requirement status:** Active
 **MoSCoW priority:** Must Have
@@ -58,7 +58,7 @@ so that I can explore the world with mobile storage.
 ### Notes and constraints
 - None
 
-## US-06: Spectral Boat [To Do]
+## US-06: Spectral Boat [MVP]
 
 **Requirement status:** Active
 **MoSCoW priority:** Must Have
@@ -117,3 +117,7 @@ so that I can gently drift down to cast other cantrips.
 
 ### Notes and constraints
 - Why WON'T: no useful cantrips that can be used specifically during falling; a spell exists that does the same
+
+
+## Initial proposed MVP v1 scope
+US-03, US-04, US-06
