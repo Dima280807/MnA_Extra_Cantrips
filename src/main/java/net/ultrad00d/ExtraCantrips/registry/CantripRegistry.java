@@ -2,6 +2,7 @@ package net.ultrad00d.ExtraCantrips.registry;
 
 import com.mna.api.cantrips.ICantrip;
 import com.mna.api.tools.RLoc;
+import net.minecraft.network.chat.Component;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.InteractionHand;
 import net.minecraft.world.entity.player.Player;
@@ -38,12 +39,12 @@ public class CantripRegistry {
     }
 
     public static void lightning(Player player, ICantrip cantrip, InteractionHand hand) {
-
+        player.sendSystemMessage(Component.translatable("cantrip.mna_extra_cantrips.lightning.desc"));
     }
     public static void placeBed(Player player, ICantrip cantrip, InteractionHand hand) {
-
+        player.sendSystemMessage(Component.translatable("cantrip.mna_extra_cantrips.spectral_bed.desc"));
     }
     public static void summonBoat(Player player, ICantrip cantrip, InteractionHand hand) {
-
+        player.sendSystemMessage(Component.translatable("cantrip.mna_extra_cantrips.spectral_boat.desc"));
     }
 }
