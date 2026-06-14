@@ -1,11 +1,8 @@
-Extra Cantrips
+Mana and Artifice Extra Cantrips
 
 [Week 2 Project Delivery Index](reports/week2/README.md)
 
 [MVP v0 Report](reports/week2/mvp-v0-report.md)
-
-
-
 
 **Setup:**
 
