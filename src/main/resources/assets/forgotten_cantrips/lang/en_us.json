@@ -1,6 +1,7 @@
 {
   "cantrip.forgotten_cantrips.lightning": "Lightning",
   "cantrip.forgotten_cantrips.lightning.desc": "A placeholder cantrip for a future lightning effect.",
+  "cantrip.forgotten_cantrips.lightning.obstructed": "Can't summon lightning here!",
   "cantrip.forgotten_cantrips.spectral_bed": "Spectral Bed",
   "cantrip.forgotten_cantrips.spectral_bed.desc": "A placeholder cantrip for a future spectral bed effect.",
   "cantrip.forgotten_cantrips.spectral_boat": "Spectral Boat",
