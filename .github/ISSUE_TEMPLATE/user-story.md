@@ -14,9 +14,6 @@ As a [type of user / persona],
 I want to [perform a specific action],
 so that [I achieve a specific goal or value].
 
-## MoSCoW Priority
-<!-- Must Have / Should Have / Could Have / Won't Have -->
-
 ## Acceptance Criteria
 <!-- At least 3 criteria for MVP v1 PBIs -->
 1. 
@@ -30,3 +27,4 @@ so that [I achieve a specific goal or value].
 
 ## Reviewer
 <!-- GitHub username, must be different from implementer -->
+
