@@ -46,11 +46,11 @@
 
 ## 🛠️ Artifacts & Evidence
 
-* **User Stories & Priorities Document:** Formalized in `reports/week2/user-stories.md`.
+* **User Stories & Priorities Document:** Formalized in [user-stories.md](user-stories.md).
 * **MVP Scope:** Established as **MVP v1**, encompassing three initial spells:
-* Spectral Bed (`US-03`)
-* Lightning (`US-04`)
-* Astral Boat (`US-06`)
+* Spectral Bed ([US-03](user-stories.md#us-03-spectral-bed-mvp))
+* Lightning ([US-04](user-stories.md#us-04-lightning-spell-mvp))
+* Astral Boat ([US-06](user-stories.md#us-06-spectral-boat-mvp))
 
 
 
@@ -58,15 +58,15 @@
 
 ## 🎯 Decisions
 
-1. **Inventory Behavior:** The summoned donkey and boat will function like a localized Ender Chest unique to each player. Items will persist inside the shared inventory even if the entity disappears or dies.
-2. **Feature Cut:** Dropped the sword-summoning slot and the slow-falling cantrip from the scope.
+1. **Inventory Behavior:** The [summoned donkey](user-stories.md#us-05-spectral-donkey) and boat will function like a localized Ender Chest unique to each player. Items will persist inside the shared inventory even if the entity disappears or dies.
+2. **Feature Cut:** Dropped the [sword-summoning slot](user-stories.md#us-09-summon-weapon-cantrip) and the [slow-falling](user-stories.md#us-10-slowfall) cantrip from the scope.
 3. **Phased Release:** The project will release early beta versions on CurseForge with the MVP spells available by default in Creative mode before the progression/study system is fully coded.
 
 ---
 
 ## 📋 Action Points
 
-* [ ] **Development:** Implement MVP v1 (Spectral Bed, Lightning, and Astral Boat).
+* [ ] **Development:** Implement MVP v1 ([Spectral Bed](user-stories.md#us-03-spectral-bed-mvp), [Lightning](user-stories.md#us-04-lightning-spell-mvp), and [Astral Boat](user-stories.md#us-06-spectral-boat-mvp)).
 * [ ] **Art:** Tweak entity textures (e.g., semi-transparent spectral look) and draw custom icons matching the established spell-component paper style.
 * [ ] **Research:** Deep-dive into the mod's architecture to verify how to gate spells behind a custom "study/unlock" system.
 * [ ] **Deployment:** Create a CurseForge project profile, set up an addon icon, and upload the primary beta build once MVP testing passes.
