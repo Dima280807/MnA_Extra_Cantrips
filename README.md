@@ -1,5 +1,7 @@
 Mana and Artifice Forgotten Cantrips
 
+[Product Backlog](docs/user-stories.md)
+
 [Week 2 Project Delivery Index](reports/week2/README.md)
 
 [MVP v0 Report](reports/week2/mvp-v0-report.md)
