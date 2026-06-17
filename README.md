@@ -1,4 +1,4 @@
-Mana and Artifice Forgotten Cantrips
+# Mana and Artifice Forgotten Cantrips
 
 [Product Backlog](docs/user-stories.md)
 
