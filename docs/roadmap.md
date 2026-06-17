@@ -7,6 +7,6 @@ Finish date:
 
 Goal:
 
-Expected outcome:
+Expected outcome (brief summary):
 
 Planned items (user stories+PBIs etc):
